@@ -1,0 +1,15 @@
+{
+  "name": "create-express",
+  "version": "0.0.1",
+  "description": "Create a express server with the correct packages in the directory",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Jack",
+    "Gouldingay"
+  ],
+  "author": "Jack Gouldingay",
+  "license": "ISC"
+}
