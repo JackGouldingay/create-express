@@ -1,9 +1,0 @@
-2020/08/19 23:50:43 152     'TestExpress' has been created.
-2020/08/19 23:50:43 246     Initialized empty Git Repository.
-2020/08/19 23:50:44 246     Initialized NPM.
-2020/08/19 23:50:44 247     Installing NPM packages: express body-parser morgan cors
-2020/08/19 23:50:47 986 ERR npm notice created a lockfile as package-lock.json. You should commit this file.
-npm WARN TestExpress@1.0.0 No description
-npm WARN TestExpress@1.0.0 No repository field.
-
-

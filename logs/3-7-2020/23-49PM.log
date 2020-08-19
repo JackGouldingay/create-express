@@ -1,9 +1,0 @@
-2020/08/19 23:49:36 029     'test' has been created.
-2020/08/19 23:49:36 056     Initialized empty Git Repository.
-2020/08/19 23:49:36 311     Initialized NPM.
-2020/08/19 23:49:36 311     Installing NPM packages: express body-parser morgan cors
-2020/08/19 23:49:40 139 ERR npm notice created a lockfile as package-lock.json. You should commit this file.
-npm WARN test@1.0.0 No description
-npm WARN test@1.0.0 No repository field.
-
-
