@@ -19,6 +19,7 @@
 	"homepage": "https://github.com/JackGouldingay/create-express#readme",
 	"dependencies": {
 		"discord-blackhole.logger": "^1.1.6",
+		"fs-extra": "^9.0.1",
 		"mkdirp-sync": "0.0.3"
 	}
 }

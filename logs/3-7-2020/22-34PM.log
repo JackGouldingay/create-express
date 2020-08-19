@@ -1,0 +1,8 @@
+2020/08/19 22:34:20 197     stdout: README.md
+lib
+logs
+node_modules
+package-lock.json
+package.json
+test
+

@@ -1,0 +1,14 @@
+2020/08/19 22:44:57 504     'test' has been created.
+2020/08/19 22:44:57 531     Initialized empty Git Repository.
+2020/08/19 22:44:57 532     Express
+2020/08/19 22:44:57 539     .
+..
+.git
+README.md
+lib
+logs
+node_modules
+package-lock.json
+package.json
+test
+

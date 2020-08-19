@@ -1,0 +1,4 @@
+2020/08/19 23:11:52 488     'test' has been created.
+2020/08/19 23:11:52 519     Initialized empty Git Repository.
+2020/08/19 23:11:52 978     Initialized NPM.
+2020/08/19 23:11:52 982     TypeError [ERR_INVALID_ARG_TYPE]: The "path" argument must be of type string. Received undefined

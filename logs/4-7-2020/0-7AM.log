@@ -1,0 +1,8 @@
+2020/08/20 00:07:12 353     /Users/jackgouldingay/Documents/Development/Github
+2020/08/20 00:07:12 356     'TestExpress' has been created.
+2020/08/20 00:07:12 404     Initialized empty Git Repository.
+2020/08/20 00:07:12 952     Initialized NPM.
+2020/08/20 00:07:12 952     Installing NPM packages: express body-parser morgan cors
+2020/08/20 00:07:15 935     Installed Packages
+2020/08/20 00:07:15 935     movign
+2020/08/20 00:07:15 936     TypeError: fs.copy is not a function

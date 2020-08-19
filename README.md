@@ -8,7 +8,7 @@ Node JS application to create express applications quicker and in the correct fo
 
 ### What Needs doing
 
-- [] Move into the new folder
-- [] npm init within the folder
-- [] install all dependencys required for that type
-- [] Generate Express Routes within folder
+- [x] Move into the new folder
+- [x] npm init within the folder
+- [x] install all dependencys required for that type
+- [x] Generate Express Routes within folder

@@ -1,0 +1,9 @@
+2020/08/20 00:05:18 319     /Users/jackgouldingay/Documents/Development/Github
+2020/08/20 00:05:18 322     'TestExpress' has been created.
+2020/08/20 00:05:18 355     Initialized empty Git Repository.
+2020/08/20 00:05:18 601     Initialized NPM.
+2020/08/20 00:05:18 602     Installing NPM packages: express body-parser morgan cors
+2020/08/20 00:05:20 938     Installed Packages
+2020/08/20 00:05:20 938     movign
+2020/08/20 00:05:20 938     Error: EISDIR: illegal operation on a directory, copyfile '/Users/jackgouldingay/Documents/Development/Github/create-express/lib/templates/api' -> '/Users/jackgouldingay/Documents/Development/Github/TestExpress'
+2020/08/20 00:05:20 938     Moved?
